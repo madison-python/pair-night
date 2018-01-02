@@ -1,0 +1,91 @@
+---
+title: Introduction to pair programming
+output:
+  beamer_presentation:
+    theme: metropolis
+---
+```{r config, include=FALSE}
+library(knitr)
+opts_chunk$set(echo=FALSE)
+```
+
+# What is pair programming?
+
+```{r engine="dot"}
+digraph {
+  fontname=Helvetica;
+  node[shape=circle label="" style=filled];
+  rankdir=LR;
+  
+  f_player1, b_player1  // order clusters last to first
+  
+  subgraph cluster0 {
+    label="Back to back";
+    b_player1 -> b_player1_laptop[dir=none];
+    b_player2 -> b_player2_laptop[dir=none];
+    
+    b_player1_laptop -> b_player1_end[minlen=2];
+    b_player2_laptop -> b_player2_end[minlen=2];
+  }
+  
+  subgraph cluster1 {
+    label="Face to face";
+    { f_player1, f_player2 } -> f_shared_laptop[dir=none];
+    f_shared_laptop -> f_shared_laptop_end[minlen=2];
+  }
+  
+  b_player1, b_player2, f_player1, f_player2[fillcolor="#8DA0CB"];
+  b_player1_laptop, b_player2_laptop, f_shared_laptop[shape=rectangle fillcolor="#66C2A5"];
+  b_player1_end, b_player2_end, f_shared_laptop_end[style=invis width=0];
+}
+```
+
+# Why pair?
+
+- To learn something you don't already know, or practice a skill you need to
+  improve. (Student-Teacher)
+- To accomplish something together you could not have accomplished on your own.
+  (Teamwork)
+
+# Goals for pairs
+
+Student-Teacher
+:   Student adopts Teacher's knowledge.
+
+Teamwork
+:   Teammates play to each other's strengths.
+ 
+# What are we going to work on?
+
+> Pairs should be working to solve some problem.
+
+Practice problem
+:   Take a problem off the shelf together.
+
+A real problem
+:   Help someone with their problem/get help with your problem,
+    or solve a real problem together.
+
+# Practice problems
+
+- Advent of Code
+- Kaggle
+- Example project (e.g., from a book)
+
+# Real problems
+
+- Find the expert!
+- GitHub issues
+- Make a thing you both want to exist
+
+# Who are we going to work with?
+
+- Put your name in the hat.
+- Find a pair on your own.
+
+# Timeline
+
+- 10min: Introduction and House Rules
+- 60min: Pair #1
+- 60min: Pair #2
+
