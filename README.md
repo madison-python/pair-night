@@ -1,5 +1,11 @@
 # Introduction to pair programming
 
+**Clarification**: this event is a normal Madpy meeting at the library. One of the activities of the meeting will be planning an upcoming Madpy event at Industrious. This event, at the library, is not the Pair Night event at Industrious.
+
+**Update**: Good news! Devin Conathan volunteered to talk about generators for the second half of the meeting. Generators are a really useful python feature if you’ve never used them: it is a function that behaves like an iterator, i.e. it can be used in a for loop.
+
+Original event description:
+
 Our next meeting is going to be a discussion and Q&A about agile software
 development practices, specifically **pair programming**. The purpose of the
 meeting is to introduce people to pair programming who have never done it
