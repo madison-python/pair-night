@@ -6,65 +6,87 @@ output:
 ---
 ```{r config, include=FALSE}
 library(knitr)
-opts_chunk$set(echo=FALSE)
+opts_chunk$set(echo=FALSE, message=FALSE, results=FALSE, cache=TRUE)
 ```
 
 # What is pair programming?
 
-```{r engine="dot"}
-digraph {
-  fontname=Helvetica;
-  node[shape=circle label="" style=filled];
-  rankdir=LR;
-  
-  f_player1, b_player1  // order clusters last to first
-  
-  subgraph cluster0 {
-    label="Back to back";
-    b_player1 -> b_player1_laptop[dir=none];
-    b_player2 -> b_player2_laptop[dir=none];
-    
-    b_player1_laptop -> b_player1_end[minlen=2];
-    b_player2_laptop -> b_player2_end[minlen=2];
-  }
-  
-  subgraph cluster1 {
-    label="Face to face";
-    { f_player1, f_player2 } -> f_shared_laptop[dir=none];
-    f_shared_laptop -> f_shared_laptop_end[minlen=2];
-  }
-  
-  b_player1, b_player2, f_player1, f_player2[fillcolor="#8DA0CB"];
-  b_player1_laptop, b_player2_laptop, f_shared_laptop[shape=rectangle fillcolor="#66C2A5"];
-  b_player1_end, b_player2_end, f_shared_laptop_end[style=invis width=0];
-}
+```{r b2b-and-f2f}
+gridExtra::grid.arrange(
+  crotchet::read_graphviz("src/back-to-back.gv"),
+  crotchet::read_graphviz("src/face-to-face.gv"),
+  nrow = 1
+)
+```
+
+# Pair programming and agile software development
+
+```{r book-covers, out.width="50%"}
+gridExtra::grid.arrange(
+  crotchet::read_image("img/brooks-1974-cover.png"),
+  crotchet::read_image("img/raymond-2001-cover.png"),
+  nrow = 1
+)
+```
+
+# The mythical man-month (Brooks, 1974)
+
+```{r mythical-man-month}
+library(tidyverse)
+divide_and_conquer <- data_frame(
+  x = 1:9,
+  y = 1/x
+)
+
+unpartitionable <- data_frame(
+  x = 1:9,
+  y = 1.5
+)
+
+complex <- data_frame(
+  x = 1:9,
+  y = c(9, 8, 7.2, 6.8, 7.8, 9.1, 11.1, 13, 16)
+)
+
+examples <- bind_rows(
+    divide_and_conquer,
+    unpartitionable,
+    complex,
+    .id = "type"
+  ) %>%
+  group_by(type) %>%
+  mutate(
+    y_norm = ifelse(type == "2", y, (y - mean(y))/sd(y)),
+    type_label = factor(type, levels = c("1", "2", "3"), labels = c("Divide and Conquer", "One at a Time", "Complex"))
+  )
+
+ggplot(examples) +
+  aes(x, y_norm) +
+  geom_smooth(method = "loess", se = FALSE, span = 1) +
+  facet_wrap("type_label") +
+  scale_x_continuous("Men", labels = NULL) +
+  scale_y_continuous("Months", labels = NULL) +
+  theme_bw(base_size = 20)
 ```
 
 # Why pair?
 
-- To learn something you don't already know, or practice a skill you need to
-  improve. (Student-Teacher)
-- To accomplish something together you could not have accomplished on your own.
-  (Teamwork)
+Reasons for pair programming:
+
+* **Student-Teacher.** To learn something you don't already know, or practice a skill you need to improve.
+* **Teamwork.** To accomplish something together you could not have accomplished on your own.
 
 # Goals for pairs
 
-Student-Teacher
-:   Student adopts Teacher's knowledge.
-
-Teamwork
-:   Teammates play to each other's strengths.
+* **Student-Teacher.** Student learns from Teacher, Teacher gets better at teaching.
+* **Teamwork.** Teammates play to each other's strengths and accomplish something together.
  
 # What are we going to work on?
 
 > Pairs should be working to solve some problem.
 
-Practice problem
-:   Take a problem off the shelf together.
-
-A real problem
-:   Help someone with their problem/get help with your problem,
-    or solve a real problem together.
+* **Practice problem.** Take a problem off the shelf together.
+* **A real problem.** Work on a problem that will be used beyond the Pair Night.
 
 # Practice problems
 
