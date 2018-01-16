@@ -2,11 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="4in"
@@ -22,6 +24,30 @@
    inkscape:export-ydpi="154.19">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient4333"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8da0cb;stop-opacity:1;"
+         offset="0"
+         id="stop4335" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4325"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8aaad9;stop-opacity:0.94117647;"
+         offset="0"
+         id="stop4327" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4319"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8da0cb;stop-opacity:0;"
+         offset="0"
+         id="stop4321" />
+    </linearGradient>
     <clipPath
        id="clipPath3390"
        clipPathUnits="userSpaceOnUse">
@@ -30,6 +56,16 @@
          id="path3392"
          d="M 0,132 132,132 132,0 0,0 0,132 Z" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4325"
+       id="linearGradient4337"
+       x1="-1.2179487"
+       y1="181.15385"
+       x2="361.47437"
+       y2="181.15385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0143369,0,0,1.0143369,-0.01838067,-2.0330852)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -38,11 +74,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3527778"
-     inkscape:cx="176.37271"
-     inkscape:cy="180"
+     inkscape:zoom="0.78"
+     inkscape:cx="212.50797"
+     inkscape:cy="90.045067"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="689"
@@ -65,6 +101,19 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4337);fill-opacity:1.0;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4331"
+       width="362.82053"
+       height="362.82053"
+       x="1.2820513"
+       y="0.30769229" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="magpy"
      style="display:inline">
@@ -77,7 +126,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="squared">
+     inkscape:label="squared"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -94,7 +144,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="pair night">
+     inkscape:label="pair night"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
