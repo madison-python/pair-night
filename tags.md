@@ -1,6 +1,12 @@
 # Tags
 
-WebDev
+To facilitate pairing up with someone with similar interests to you, we will
+using a **tag** system. Each person will select between 1 and 3 of the following
+tags to describe themselves and the kind of project they'd like to work on.
+On the night of the event, these tags will help people find someone with similar
+interests to pair up with.
+
+**WebDev**
 :   You like building things for the web. You might know how to build web apps
     with `django` or `flask`, or you like the simplicity of using a static site
     generator like `pelican`. You can whip up a basic form in `HTML` and you
@@ -10,7 +16,7 @@ WebDev
     wouldn't be opposed to a little webscraping with `beautifulsoup` or
     `scrapy`.
 
-DataScience
+**DataScience**
 :   You like playing with data. You know the scientific python stack: tools
     like `numpy`, `scipy`, and `pandas`. You might know how to do machine
     learning with `scikit-learn` or `tensorflow`. You know some formal
@@ -18,7 +24,7 @@ DataScience
     you need to. You may know some `R`. You probably know how to use a `jupyter
     notebook` to present the results of your analysis.
 
-Challenger
+**Challenger**
 :   You like solving well-defined problems. You use as much of the standard
     library as you can. You like it when you get to import `collections`,
     `itertools`, or `functools` in one of your projects. You see algorithms
@@ -27,7 +33,7 @@ Challenger
     your nights and weekends doing coding challenges like `Advent of Code`, or
     `Code Golf`.
 
-DevOps
+**DevOps**
 :   You love automation. You can appreciate a reproducible workflow. Maybe you
     have used `ansible` or other configuration management system. You may have
     a few `Amazon Web Services` profiles, and know how to use `boto3` to
@@ -37,7 +43,7 @@ DevOps
     so you don't have to repeat boring tasks. You know how to setup
     a `Continuous Integration` deployment.
 
-OpenSource
+**OpenSource**
 :   You believe in the open source community. Your `GitHub` activity chart is
     all green. You know how to use `distutils` to package up your code and send
     it to `PyPI` for other people to install with `pip`. You write tests for
