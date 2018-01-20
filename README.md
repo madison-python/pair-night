@@ -40,6 +40,9 @@ Here are the tags I've come up with, with thanks to Ryan Prior, Devin Conathan, 
 **GameDev**
 :   Make a game, play a game.
 
+**GUIApps**
+:   Build programs, design layouts and user interactions.
+
 **HelloWorld!**
 :   Pythonista in training.
 
