@@ -59,8 +59,8 @@ These tags also integrate nicely with the Classifieds projects board. Each proje
 
 Times are relative to the 6PM start time.
 
-30min. Introduction, pairings, and project selection. (Food? See below.)
-60min. Pairing #1.
+30min. Introduction, pairings, and project selection. (Food? See below.)  
+60min. Pairing #1.  
 60min. Pairing #2. Can continue with Pair #1 if you'd like.
 
 ## Summary
