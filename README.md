@@ -38,7 +38,7 @@ Here are the tags I've come up with, with thanks to Ryan Prior, Devin Conathan, 
 :   Engage with the open source community. Make a package, fix a bug.
 
 **GameDev**
-:   Work on game design.
+:   Make a game, play a game.
 
 **HelloWorld!**
 :   Pythonista in training.
