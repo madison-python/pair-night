@@ -63,6 +63,8 @@ Times are relative to the 6PM start time.
 60min. Pairing #1.  
 60min. Pairing #2. Can continue with Pair #1 if you'd like.
 
+**A note on food.** I would love to order pizzas for the group, but I could use some help with the expenses. If you are up for chipping in for some pizza or you have a lead on a potential sponsor for the event, please get in touch with me.
+
 ## Summary
 
 - Pair Night starts at 6PM on Feb. 28 at [Industrious on the square](https://www.industriousoffice.com/).
