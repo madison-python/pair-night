@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448 1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="madpy-pair-night-flyer.svg"
+   inkscape:export-filename="/Users/pierce/Projects/madison-python/pair-night/flyer/madpy-pair-night-flyer.png"
+   inkscape:export-xdpi="154.39"
+   inkscape:export-ydpi="154.39"
+   style="enable-background:new">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4333"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8da0cb;stop-opacity:1;"
+         offset="0"
+         id="stop4335" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4325"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8aaad9;stop-opacity:0.94117647;"
+         offset="0"
+         id="stop4327" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4319"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8da0cb;stop-opacity:0;"
+         offset="0"
+         id="stop4321" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3390"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3392"
+         d="M 0,132 132,132 132,0 0,0 0,132 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46276842"
+     inkscape:cx="-44.557242"
+     inkscape:cy="526.18111"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     units="mm"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background"
+     style="display:inline"
+     transform="translate(0,692.36221)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="magpy"
+     style="display:inline"
+     transform="translate(0,692.36221)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3396"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       d="m 234.7348,-403.64378 c 0.0583,3.8166 3.23605,6.95263 7.03319,6.95263 3.97491,-0.008 7.16651,-3.26661 7.08318,-7.23595 -0.0779,-3.79715 -3.26382,-6.95545 -7.03598,-6.98596 -3.90545,-0.0335 -7.1387,3.28603 -7.08039,7.26928 m 239.72551,-103.77279 c -6.16655,0 -11.77754,0.17776 -17.37464,-0.0751 -2.89162,-0.12783 -3.9666,0.9722 -4.78879,3.59715 -9.63593,30.5938 -19.39127,61.15146 -29.10217,91.72582 -1.05277,3.3166 -2.02495,6.66374 -3.05826,10.0581 7.06651,0.87223 7.06096,0.87223 9.58034,-4.77209 11.93031,-26.78002 23.87728,-53.55442 35.80201,-80.33995 2.90828,-6.53044 5.79157,-13.07751 8.94151,-20.19404 m -254.03355,143.31647 c 14.17471,44.79627 63.94865,81.86493 121.61411,69.5902 58.12101,-12.37198 84.55932,-65.21808 83.36766,-100.02012 -9.8331,0 -19.68011,0.15836 -29.5188,-0.0833 -3.39437,-0.0888 -4.91378,0.86943 -6.11932,4.17769 -7.05263,19.39406 -18.07185,36.19648 -33.65484,49.85172 -12.69418,11.11366 -27.09666,19.15516 -44.0185,20.97177 -32.30766,3.46662 -59.44321,-7.38038 -81.29275,-31.35208 -3.55827,-3.89993 -6.5804,-8.29707 -10.37756,-13.13587 m 107.4922,79.00114 -18.57185,0 0,3.31659 c 0,15.07191 0,30.14103 -0.003,45.22125 0,0.88332 0.33052,2.06384 -0.11103,2.59993 -0.99998,1.23055 -2.39438,2.98331 -3.60825,2.96663 -1.18886,-0.0196 -2.90829,-1.75831 -3.38325,-3.10271 -0.59723,-1.67774 -0.16381,-3.71662 -0.16381,-5.59989 -0.003,-14.63579 -0.0416,-29.26605 0.0416,-43.89906 0.0167,-2.17217 -0.58057,-2.96661 -2.83052,-3.39441 -49.14102,-9.35537 -86.0569,-49.33786 -91.55122,-99.02849 -0.30001,-2.72772 -0.41666,-5.47211 -0.63888,-8.51093 -3.04992,0 -5.79988,-0.0416 -8.54983,0.0154 -2.54716,0.0501 -4.78323,-0.33054 -4.94154,-3.51105 -0.12228,-2.48326 1.63607,-3.72492 5.13045,-3.75547 2.86104,-0.0196 5.7193,-10e-4 8.53313,-10e-4 3.79714,-31.55211 28.50219,-46.1685 48.11011,-47.25177 21.66064,-1.19443 45.66014,11.89137 53.06833,40.09359 3.25824,-0.85 6.53318,-1.68331 9.79144,-2.56664 24.24673,-6.57764 48.4851,-13.1747 72.72904,-19.74679 4.2999,-1.16667 6.39426,0.53054 5.94986,4.99435 -0.79998,8.01926 -1.78331,16.01908 -2.73052,24.45225 5.40825,0 11.12755,0.10547 16.83023,-0.13061 0.75829,-0.0305 1.74438,-1.71105 2.09161,-2.79992 7.56928,-23.5995 15.07188,-47.2268 22.57173,-70.84851 3.64993,-11.49695 7.36097,-22.97451 10.87201,-34.51871 0.99163,-3.2777 2.68327,-4.661 6.17485,-4.58322 8.3165,0.18609 16.633,0.05 24.94395,0.0638 6.02487,0.005 7.22761,1.83328 4.80543,7.28317 -15.04132,33.76872 -30.08826,67.53188 -45.12125,101.29784 -0.53056,1.20274 -1.01388,2.42493 -1.78885,4.26381 2.61937,0 4.861,0 7.10263,0 2.47216,0.006 4.19155,1.10551 4.18045,3.68048 -0.0194,2.56105 -1.6861,3.63602 -4.20547,3.58601 -2.97769,-0.0612 -5.94709,-0.0154 -8.60536,-0.0154 -6.78321,60.08763 -39.41307,96.22298 -98.7507,109.28659 l 0,2.87495 c 0,15.18577 10e-4,30.37434 -0.006,45.55735 0,1.10552 0.28608,2.51104 -0.26666,3.23882 -0.89442,1.16942 -2.41106,2.62495 -3.60548,2.57772 -1.17498,-0.0527 -2.48885,-1.67773 -3.33605,-2.89159 -0.47498,-0.68333 -0.15836,-1.93332 -0.15836,-2.92771 -0.003,-14.74972 0,-29.49106 0,-44.22965 l 0,-4.05546 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="squared"
+     style="display:inline"
+     transform="translate(0,692.36221)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:66.12096405px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="486.38626"
+       y="-475.07257"
+       id="text4288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4290"
+         x="486.38626"
+         y="-475.07257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:123.97679901px;font-family:Menlo;-inkscape-font-specification:Menlo">2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="pair night"
+     style="display:inline"
+     transform="translate(0,692.36221)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:66.12096405px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.38083"
+       y="-157.68387"
+       id="text4160"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4162"
+         x="172.38083"
+         y="-157.68387"
+         style="font-size:82.65119934px">Pair night</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="372.71558"
+       y="18.714729"
+       id="text4151"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4153"
+         x="372.71558"
+         y="18.714729"
+         style="font-size:37.5px;text-align:center;text-anchor:middle">Wednesday, February 28</tspan><tspan
+         sodipodi:role="line"
+         x="372.71558"
+         y="65.589729"
+         id="tspan4155"
+         style="font-size:37.5px;text-align:center;text-anchor:middle">6:00 to 8:30 PM</tspan><tspan
+         sodipodi:role="line"
+         x="372.71558"
+         y="112.46473"
+         id="tspan4157"
+         style="font-size:37.5px;text-align:center;text-anchor:middle">@ Industrious</tspan><tspan
+         sodipodi:role="line"
+         x="372.71558"
+         y="159.33972"
+         id="tspan4159"
+         style="font-size:37.5px"><tspan
+   style="font-size:37.5px;text-align:center;text-anchor:middle"
+   id="tspan4161">25 W. Main S</tspan>t.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="368.36682"
+       y="-634.0177"
+       id="text4163"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4165"
+         x="368.36682"
+         y="-634.0177"
+         style="font-size:37.5px;text-align:center;text-anchor:middle">Madpy, BigData, and MadR present</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.9072"
+       y="255.70184"
+       id="text4167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4169"
+         x="159.9072"
+         y="255.70184"
+         style="font-size:37.5px">For more details, go to:</tspan><tspan
+         sodipodi:role="line"
+         x="159.9072"
+         y="302.57684"
+         style="font-size:37.5px"
+         id="tspan4171">bit.ly/madpy-pair-night</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="371.65662"
+       y="-91.14595"
+       id="text3362"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3364"
+         x="371.65662"
+         y="-91.14595"
+         style="font-size:50px;text-align:center;text-anchor:middle">A night of pair programming</tspan></text>
+  </g>
+</svg>
