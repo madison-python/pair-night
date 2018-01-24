@@ -1,10 +1,10 @@
 # Pair Night
 
-<img src="https://github.com/madison-python/pair-night/raw/master/madpy-pair-night.png" align="left" width="220">
+<img src="https://github.com/madison-python/pair-night/raw/master/madpy-pair-night.png" align="left" width="180">
 
 **Pair Night** is a night for pair programming.
 
-We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [BigDataMadison](https://meetup.com/BigDataMadison) and [MadR](https://meetup.com/MadR-Madison-R-Programming-UseRs-Group/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Wednesday, Feb. 28, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: <bit.ly/madpy-pair-night>.
+We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [BigDataMadison](https://meetup.com/BigDataMadison) and [MadR](https://meetup.com/MadR-Madison-R-Programming-UseRs-Group/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Wednesday, Feb. 28, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: [bit.ly/madpy-pair-night](https://bit.ly/madpy-pair-night).
 
 Based on polling at the last few Madpy meetups, this will be a first time pair programming for most of us, so if you have never pair programmed before, rest assured, you are in good company. At Madpy's last meetup, I talked about the origins of pair programming: what it is, why people do it, and what people get out of it ([slides](https://github.com/madison-python/pair-night/blob/master/intro-to-pair-programming.pdf)). We also had a discussion about how best to organize the first Pair Night.
 
