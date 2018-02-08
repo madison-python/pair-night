@@ -15,7 +15,7 @@
    viewBox="0 0 744.09448 1052.3622"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="madpy-pair-night-flyer.svg"
    inkscape:export-filename="/Users/pierce/Projects/madison-python/pair-night/flyer/madpy-pair-night-flyer.png"
    inkscape:export-xdpi="154.39"
@@ -63,17 +63,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66101291"
-     inkscape:cx="126.05387"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.46276842"
+     inkscape:cx="-44.557242"
+     inkscape:cy="526.18111"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1545"
-     inkscape:window-height="1049"
+     inkscape:window-width="1280"
+     inkscape:window-height="689"
      inkscape:window-x="0"
      inkscape:window-y="1"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      units="mm"
      showborder="true" />
   <metadata
@@ -93,15 +93,7 @@
      id="layer1"
      inkscape:label="background"
      style="display:inline"
-     transform="translate(0,692.36221)">
-    <rect
-       id="rect36"
-       width="747.43243"
-       height="1058.0354"
-       x="-1.4182751"
-       y="-695.19879"
-       style="display:inline;fill:#8aaad9;fill-opacity:0.94117647;stroke-width:7.39472151;enable-background:new" />
-  </g>
+     transform="translate(0,692.36221)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -122,15 +114,16 @@
      transform="translate(0,692.36221)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:66.12096405px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="486.38626"
        y="-475.07257"
-       id="text4288"><tspan
+       id="text4288"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4290"
          x="486.38626"
          y="-475.07257"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:123.97679901px;line-height:1.25;font-family:Menlo;-inkscape-font-specification:Menlo">2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:123.97679901px;font-family:Menlo;-inkscape-font-specification:Menlo">2</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -140,80 +133,85 @@
      transform="translate(0,692.36221)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:66.12096405px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="172.38083"
        y="-157.68387"
-       id="text4160"><tspan
+       id="text4160"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4162"
          x="172.38083"
          y="-157.68387"
-         style="font-size:82.65119934px;line-height:1.25">Pair night</tspan></text>
+         style="font-size:82.65119934px">Pair night</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="372.71558"
        y="18.714729"
-       id="text4151"><tspan
+       id="text4151"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4153"
          x="372.71558"
          y="18.714729"
-         style="font-size:37.5px;line-height:1.25;text-align:center;text-anchor:middle">Wednesday, February 28</tspan><tspan
+         style="font-size:37.5px;text-align:center;text-anchor:middle">Wednesday, February 28</tspan><tspan
          sodipodi:role="line"
          x="372.71558"
          y="65.589729"
          id="tspan4155"
-         style="font-size:37.5px;line-height:1.25;text-align:center;text-anchor:middle">6:00 to 8:30 PM</tspan><tspan
+         style="font-size:37.5px;text-align:center;text-anchor:middle">6:00 to 8:30 PM</tspan><tspan
          sodipodi:role="line"
          x="372.71558"
          y="112.46473"
          id="tspan4157"
-         style="font-size:37.5px;line-height:1.25;text-align:center;text-anchor:middle">@ Industrious</tspan><tspan
+         style="font-size:37.5px;text-align:center;text-anchor:middle">@ Industrious</tspan><tspan
          sodipodi:role="line"
          x="372.71558"
-         y="160.90224"
+         y="159.33972"
          id="tspan4159"
-         style="font-size:37.5px;line-height:1.25"><tspan
+         style="font-size:37.5px"><tspan
    style="font-size:37.5px;text-align:center;text-anchor:middle"
    id="tspan4161">25 W. Main S</tspan>t.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="368.36682"
        y="-634.0177"
-       id="text4163"><tspan
+       id="text4163"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4165"
          x="368.36682"
          y="-634.0177"
-         style="font-size:37.5px;line-height:1.25;text-align:center;text-anchor:middle">Madpy, BigData, and MadR present</tspan></text>
+         style="font-size:37.5px;text-align:center;text-anchor:middle">Madpy, BigData, and MadR present</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="159.9072"
        y="255.70184"
-       id="text4167"><tspan
+       id="text4167"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4169"
          x="159.9072"
          y="255.70184"
-         style="font-size:37.5px;line-height:1.25">For more details, go to:</tspan><tspan
+         style="font-size:37.5px">For more details, go to:</tspan><tspan
          sodipodi:role="line"
          x="159.9072"
          y="302.57684"
-         style="font-size:37.5px;line-height:1.25"
+         style="font-size:37.5px"
          id="tspan4171">bit.ly/madpy-pair-night</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="371.65662"
        y="-91.14595"
-       id="text3362"><tspan
+       id="text3362"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3364"
          x="371.65662"
          y="-91.14595"
-         style="font-size:50px;line-height:1.25;text-align:center;text-anchor:middle">A night of pair programming</tspan></text>
+         style="font-size:50px;text-align:center;text-anchor:middle">A night of pair programming</tspan></text>
   </g>
 </svg>
