@@ -8,16 +8,12 @@ output:
 library(knitr)
 opts_chunk$set(echo=FALSE, message=FALSE, results=FALSE, cache=TRUE)
 read_chunk("R/mythical-man-month.R")
+read_chunk("dot/pair-programming.gv", label = "pair-programming")
 ```
 
 # What is pair programming?
 
-```{r b2b-and-f2f}
-gridExtra::grid.arrange(
-  crotchet::read_graphviz("dot/back-to-back.gv"),
-  crotchet::read_graphviz("dot/face-to-face.gv"),
-  nrow = 1
-)
+```{r pair-programming, engine="dot"}
 ```
 
 # Why pair programming is terrible

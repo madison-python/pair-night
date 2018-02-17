@@ -1,0 +1,22 @@
+digraph {
+  fontname=Helvetica;
+  label="Pair programming"
+  labelloc="t"
+  rankdir=RB
+  node[shape=circle label="" style=filled fontname=Helvetica width=0.7]
+  edge[fontname=Helvetica]
+
+  sbs_p1
+
+  sbs_p1[label="me"]
+  sbs_p2[label="you"]
+  sbs_laptop[label="computer" height=0.6]
+
+  label=""
+  sbs_p1 -> sbs_laptop[xlabel="driver  "]
+  sbs_p2 -> sbs_laptop[dir=none label="navigator"]
+
+  sbs_p1, sbs_p2[fillcolor="#8DA0CB"]
+  sbs_laptop[shape=rectangle fillcolor="#66C2A5"]
+
+}
