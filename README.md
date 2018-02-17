@@ -1,6 +1,6 @@
 # Pair Night
 
-<img src="https://github.com/madison-python/pair-night/raw/master/img/madpy-pair-night.png" align="left" width="180">
+<img src="https://github.com/madison-python/pair-night/raw/master/logo.png" align="left" width="180">
 
 **Pair Night** is a night for pair programming.
 
