@@ -6,6 +6,8 @@
 
 We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [BigDataMadison](https://meetup.com/BigDataMadison) and [MadR](https://meetup.com/MadR-Madison-R-Programming-UseRs-Group/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Wednesday, Feb. 28, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: <[bit.ly/madpy-pair-night](https://bit.ly/madpy-pair-night)>.
 
+<br>
+
 - [What is pair programming?](#what-is-pair-programming)
 - [Why pair program?](#why-pair-program)
 - [But I've never pair programmed before](#but-ive-never-pair-programmed-before)
@@ -15,9 +17,11 @@ We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [Bi
 
 ## What is pair programming?
 
-<img src="https://github.com/madison-python/pair-night/raw/master/img/pair-programming.png" align="left" width="110">
+<img src="https://github.com/madison-python/pair-night/raw/master/img/pair-programming.png" align="left" width="120">
 
 Pair programming is a style of programming where two programmers work side-by-side at one computer. The two programmers have distinct roles. The **driver** types at the computer, while the **navigator** reviews the code as it is typed and offers suggestions for future directions. The driver and navigator are encouraged to switch roles frequently.
+
+<br>
 
 ## Why pair program?
 
@@ -71,7 +75,7 @@ Here are the tags I've come up with, with thanks to Ryan Prior, Devin Conathan, 
 
 Times are relative to the 6PM start time.
 
-30min. Introduction, pairings, and project selection.
+30min. Introduction, pairings, and project selection.  
 60min. Pairing #1.   
 60min. Pairing #2. Can continue with Pair #1 if you'd like.
 
