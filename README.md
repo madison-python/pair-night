@@ -10,10 +10,10 @@ We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [Bi
 
 - [What is pair programming?](#what-is-pair-programming)
 - [Why pair program?](#why-pair-program)
-- [But I've never pair programmed before](#but-ive-never-pair-programmed-before)
+- [But I've never pair programmed before.](#but-ive-never-pair-programmed-before)
 - [How are pairs formed?](#how-are-pairs-formed)
-- [Schedule of events](#schedule-of-events)
-- [What to bring](#what-to-bring)
+- [Schedule of events.](#schedule-of-events)
+- [What to bring.](#what-to-bring)
 
 ## What is pair programming?
 
@@ -27,9 +27,11 @@ Pair programming is a style of programming where two programmers work side-by-si
 
 There are many reasons to pair at work, but the reason we are holding a Pair Night is very simple: **We think it is fun to write code with other people.** Most people who come to our meetings do so because they are interested in learning new things with other people, so we hope that after a night of pair programming you come away having produced some working code, learned something you didn't already know, and had fun doing it.
 
-## But I've never pair programmed before
+## But I've never pair programmed before.
 
 Based on polling at the last few Madpy meetups, this will be a first time pair programming for most of us, so if you have never pair programmed before, rest assured, you are in good company. The Pair Night is an informal event, open to all experience levels, and whether pairs follow the "rules" of pair programming (as defined by Article 5-4 Section B) isn't nearly as important as having a good time while you are here.
+
+If you want to learn more about pair programming, you can review Pierce's [slides](slides.pdf), or you can check out the article on pair programming in this repo by Williams and Kessler titled ["All I really need to know about pair programming I learned in Kindergarten"](articles/williams-kessler-2000-all-i-need.pdf).
 
 ## How are pairs formed?
 
@@ -71,7 +73,7 @@ Here are the tags I've come up with, with thanks to Ryan Prior, Devin Conathan, 
 **HelloWorld!**
 :   Pythonista in training.
 
-## Schedule of events
+## Schedule of events.
 
 Times are relative to the 6PM start time.
 
@@ -79,7 +81,7 @@ Times are relative to the 6PM start time.
 60min. Pairing #1.   
 60min. Pairing #2. Can continue with Pair #1 if you'd like.
 
-## What to bring
+## What to bring.
 
 **A laptop**
 :   If you have a laptop, please bring it. Since we are pair programming, not everyone will need a laptop, so **if you don't have a laptop, don't let that stop you from coming**. If we run short on laptops, we will form larger groups if we have to, and we will figure out a better system for the next Pair Night.
