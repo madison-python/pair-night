@@ -1,5 +1,5 @@
 ---
-title: House rules
+fontsize: 14pt
 output:
   beamer_presentation:
     theme: metropolis
@@ -10,7 +10,33 @@ opts_chunk$set(echo=FALSE)
 read_chunk("dot/pair-programming.gv", label = "pair-programming")
 ```
 
+# Welcome to Pair Night!
+
+![](logo-bw.svg)
+
 # Pair programming
 
-```{r pair-programming, engine="dot"}
+```{r pair-programming, engine="dot", height="100%"}
 ```
+
+trello.com/madpy  
+github.com/madison-python  
+github.com/madison-python/pair-night  
+
+# House rules
+
+1. At least one switch at 25 minutes.  
+1. Take a break after 1 hour.  
+1. Ergonomics are important.  
+1. "Working software is ... progress."
+
+## Suggestions for pairs
+
+Are you a student, a teacher, or a teammate?  
+Introverts and extroverts pair well together!  
+"Build projects around motivated individuals."  
+
+# Project ideas
+
+\LARGE trello.com/madpy  
+\LARGE github.com/madison-python  
