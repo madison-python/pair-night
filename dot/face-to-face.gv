@@ -1,0 +1,16 @@
+digraph {
+  node[shape=circle label="" style=filled];
+  rankdir=LR;
+  bgcolor="transparent"
+  
+  label="Face to face";
+  fontname=Helvetica;
+  labelloc="t";
+  
+  { player1, player2 } -> shared_laptop[dir=none];
+  shared_laptop -> shared_laptop_end[minlen=2];
+
+  player1, player2[fillcolor="#8DA0CB"];
+  shared_laptop[shape=rectangle fillcolor="#66C2A5"];
+  shared_laptop_end[style=invis width=0];
+}

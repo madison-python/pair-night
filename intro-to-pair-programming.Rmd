@@ -6,21 +6,14 @@ output:
 ---
 ```{r config, include=FALSE}
 library(knitr)
-library(reticulate)
-use_virtualenv("~/.venvs/madpy")
-knit_engines$set(python = reticulate::eng_python)
 opts_chunk$set(echo=FALSE, message=FALSE, results=FALSE, cache=TRUE)
 read_chunk("R/mythical-man-month.R")
+read_chunk("dot/pair-programming.gv", label = "pair-programming")
 ```
 
 # What is pair programming?
 
-```{r b2b-and-f2f}
-gridExtra::grid.arrange(
-  crotchet::read_graphviz("src/back-to-back.gv"),
-  crotchet::read_graphviz("src/face-to-face.gv"),
-  nrow = 1
-)
+```{r pair-programming, engine="dot"}
 ```
 
 # Why pair programming is terrible
@@ -98,7 +91,7 @@ When: Weeknight ([survey results](https://docs.google.com/forms/d/1sg8cwcBp9NG6Y
 
 * **Student-Teacher.** Student learns from Teacher, Teacher gets better at teaching ([rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
 * **Teamwork.** Teammates play to each other's strengths and accomplish something together.
- 
+
 # What are we going to work on?
 
 ## Pairs should be working to solve some problem.

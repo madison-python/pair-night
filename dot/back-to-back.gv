@@ -1,0 +1,19 @@
+digraph {
+  rankdir=LR;
+  node[shape=circle label="" style=filled];
+  bgcolor="transparent"
+
+  label="Back to back";
+  labelloc="t";
+  fontname=Helvetica;
+
+  player1 -> player1_laptop[dir=none];
+  player2 -> player2_laptop[dir=none];
+  
+  player1_laptop -> player1_end[minlen=2];
+  player2_laptop -> player2_end[minlen=2];
+
+  player1, player2[fillcolor="#8DA0CB"];
+  player1_laptop, player2_laptop[shape=rectangle fillcolor="#66C2A5"];
+  player1_end, player2_end[style=invis width=0];
+}
