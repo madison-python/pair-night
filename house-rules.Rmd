@@ -1,0 +1,16 @@
+---
+title: House rules
+output:
+  beamer_presentation:
+    theme: metropolis
+---
+```{r config, include=FALSE}
+library(knitr)
+opts_chunk$set(echo=FALSE)
+read_chunk("dot/pair-programming.gv", label = "pair-programming")
+```
+
+# Pair programming
+
+```{r pair-programming, engine="dot"}
+```
