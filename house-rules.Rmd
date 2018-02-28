@@ -27,7 +27,7 @@ github.com/madison-python/pair-night
 
 1. At least one switch at 25 minutes.  
 1. Take a break after 1 hour.  
-1. Ergonomics are important.  
+1. Ergonomics is important.
 1. "Working software is ... progress."
 
 ## Suggestions for pairs
