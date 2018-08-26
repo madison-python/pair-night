@@ -4,7 +4,7 @@
 
 **Pair Night** is a night for pair programming.
 
-We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [BigDataMadison](https://meetup.com/BigDataMadison) and [Mad-Railers](https://www.meetup.com/Mad-Railers/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Thursday, Sept. 13, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: <[bit.ly/madpy-pair-night-v2](https://bit.ly/madpy-pair-night-v2)>.
+We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [Big Data Madison](https://meetup.com/BigDataMadison) and [Mad-Railers](https://www.meetup.com/Mad-Railers/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Thursday, Sept. 13, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: <[bit.ly/madpy-pair-night-v2](https://bit.ly/madpy-pair-night-v2)>.
 
 <br>
 
