@@ -27,7 +27,7 @@ read_chunk("dot/pair-programming.gv", label = "pair-programming")
 
 # Why pair programming is worth it
 
-- Customized learning environment.
+- Pairing is a customized learning environment.
 - Interactive learning is better than passive.
 - Pair programming solves "unknown unknowns".
 - People over processes ([Agile Manifesto](http://agilemanifesto.org/)).
@@ -79,8 +79,9 @@ Arisholm, Gallis, Dyba, & Sjoberg (2007). _IEEE Transactions on Software Enginee
 
 # Madpy Pair Night
 
-Where: Industrious.  
-When: Weeknight ([survey results](https://docs.google.com/forms/d/1sg8cwcBp9NG6YZt4cLR5NpmOLYmvPQYKdFfkoA9MaZw/edit#responses)).  
+```{r pair-night-logo}
+crotchet::draw_image("logo.png")
+```
 
 # Why come to Pair Night?
 
@@ -103,10 +104,11 @@ When: Weeknight ([survey results](https://docs.google.com/forms/d/1sg8cwcBp9NG6Y
 
 # Practice problems
 
+- [Exercism.io](https://exercism.io)
 - [Advent of Code](https://adventofcode.com/)
 - [Nifty assignments](http://nifty.stanford.edu/)
 - [Code golf](https://codegolf.stackexchange.com/)
-- [Kaggle competition](https://www.kaggle.com/competitions)
+- [Kaggle competitions](https://www.kaggle.com/competitions)
 - Example project (e.g., from a book)
 
 # Real problems
@@ -114,31 +116,3 @@ When: Weeknight ([survey results](https://docs.google.com/forms/d/1sg8cwcBp9NG6Y
 - Find the expert!
 - GitHub issues
 - Make a thing you both want to exist
-
-# Who are we going to work with?
-
-```{r randomness, engine="dot"}
-digraph {
-  rankdir=LR;
-  node[fontname=Helvetica shape=none];
-  random -> select[dir=both minlen=2];
-  random[label="Random"];
-  select[label="Pre-selected"];
-}
-```
-
-# House rules on pairings
-
-**Randomly assign groups and select pairs from the group.**
-
-- Everyone completes a simple survey.
-- I generate groups of like-minded people.
-- At the Pair Night, people meet their group, and form pairs.
-
-**Note:** If you want to come pre-paired, that is fine!
-
-# Timeline: 2 hours and 15 minutes
-
-- 45: Intro, pairings, and pizza
-- 45: Pair #1
-- 45: Pair #2
