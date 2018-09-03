@@ -4,7 +4,7 @@
 
 **Pair Night** is a night for pair programming.
 
-We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [BigDataMadison](https://meetup.com/BigDataMadison) and [Mad-Railers](https://www.meetup.com/Mad-Railers/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Thursday, Sept. 13, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: <[bit.ly/madpy-pair-night-v2](https://bit.ly/madpy-pair-night-v2)>.
+We (the [Madpy meetup](https://meetup.com/MadPython/), in collaboration with [Big Data Madison](https://meetup.com/BigDataMadison) and [Mad-Railers](https://www.meetup.com/Mad-Railers/)) are organizing a Pair Night at [Industrious](https://www.industriousoffice.com/) on Thursday, Sept. 13, 2018 beginning at 6PM. Here is a link to the event on Meetup.com: <[bit.ly/madpy-pair-night-v2](https://bit.ly/madpy-pair-night-v2)>.
 
 <br>
 
@@ -27,15 +27,15 @@ Pair programming is a style of programming where two programmers work side-by-si
 
 There are many reasons to pair at work, but the reason we are holding a Pair Night is very simple: **We think it is fun to write code with other people.** Most people who come to our meetings do so because they are interested in learning new things with other people, so we hope that after a night of pair programming you come away having produced some working code, learned something you didn't already know, and had fun doing it.
 
-## But I've never pair programmed before.
+## But I've never pair programmed before!
 
 If you have never pair programmed before, rest assured, you are in good company. The Pair Night is an informal event, open to all experience levels, and whether pairs follow the "rules" of pair programming isn't nearly as important as having a good time while you are here.
 
-If you want to learn more about pair programming, you can review [Pierce's slides](slides.pdf), read [this article in the New York Times](https://www.nytimes.com/2009/09/20/jobs/20pre.html), or check out the article on pair programming in this repo by Williams and Kessler titled ["All I really need to know about pair programming I learned in Kindergarten"](articles/williams-kessler-2000-all-i-need.pdf).
+If you want to learn more about pair programming, you can review [Pierce's slides](slides.pdf), read [this article in the New York Times](https://www.nytimes.com/2009/09/20/jobs/20pre.html), or check out the article on pair programming by Williams and Kessler titled ["All I really need to know about pair programming I learned in Kindergarten"](articles/williams-kessler-2000-all-i-need.pdf).
 
 ## How are pairs formed?
 
-The first part of the event will be spent finding a partner to pair with and a project to work on. The goal of the event organizers will be to help people with similar interests find each other at the event, and figure out a project to work on. To help everyone find projects and form pairs, we have set up a digital bulletin board for posting project ideas, and a nametag system for helping you find someone with similar interests.
+The first part of the event will be spent finding a partner to pair with and a project to work on. The goal of the event organizers will be to help people with similar interests find each other at the event, and figure out a project to work on. To help everyone find projects, we have set up a digital bulletin board for posting project ideas.
 
 ### Project ideas board
 
@@ -49,7 +49,7 @@ Times are relative to the 6pm start time.
 
 30min. Introduction, pairings, and project selection.  
 60min. Pairing #1.   
-60min. Pairing #2. Can continue with Pair #1 if you'd like.
+60min. Pairing #2.
 
 ## What to bring
 
