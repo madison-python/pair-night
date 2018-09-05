@@ -1,16 +1,11 @@
 # Pair Programming Q&A with Jim Remsik
 
-#. When do you pair?
-    - Company policy
-    - When you run into problems
-    - When someone new comes on the project
-#. Can you describe something that you learned in a pairing session that you would not have learned on your own?
-
-## The Driver and the Navigator
-
-The two roles in a pair are the Driver and the Navigator.
-
-#. Obviously only one person can be typing at a time, but do you think it is useful to think about the two roles as being separate?
-#. Do you have a preferred role? Why?
-#. Who should do more of the talking, the Driver or the Navigator?
-
+#. I want to start by asking about your first experiences with pair
+programming. When did you start pairing? Was it something you wanted to try on
+your own or was it a requirement for where you worked? (Goal: Discuss the various ways people may pair at work.)
+#. Now that you've been pairing for a while, I'm curious what has changed about how you think about it. What did you think about pairing when you started, and how do you think about it now? What changed how you feel about pairing? Was it gaining more experience as a software developer, getting used to pairing with other people, pairing in a different work environment, or something else? (Goal: Discuss pairing as a skill that needs to be developed.)
+#. For the first Pair Night, I told everyone there were two ways to think about their pairs. The first way is a "Teacher-Student" pair, where the goal is for the student to learn from the teacher and the teacher to get better at teaching. The second way is a "Teamwork" pair, where the goal is to lean on each other's strengths and accomplish something together that neither person could on their own. Do your experiences with pairing fall into either of these categories, or are there others that I'm missing? Do you think pair programming is better suited for Teacher-Student goals or Teamwork goals? (Goal: Get people to realize there are different goals for different pairs.)
+#. Can you describe a good pairing experience and a bad pairing experience? What makes a pairing session successful in your mind, and what are the things that make pairing unsuccessful? (Goal: Discuss the right mindset that people should have when pairing.)
+#. Can you describe something that you learned in a pairing session that you would not have learned on your own? I've found that working one-on-one with someone, they can often help me with the "unknown unknowns". There are the "known unknowns" which are the things I know I don't know, and I have an idea of how to Google them. Then there are the "unknown unknowns" -- the things I didn't even know I was doing wrong. Can you think of any situations like this where you learned something through pairing that you didn't realize you didn't know? (Goal: Discuss why pairing is a unique learning environment.)
+#. The two roles in a pair are the driver and the navigator. Obviously only one person can be typing at a time, but do you think it's useful to think about the two roles as being separate? For example, do you have a preference for driving or navigating? Is it better to switch often or "settle in" to one role or the other? (Goal: Make people think about why the roles are different.)
+#. What does a good pairing session sound like? Is the navigator doing most of the talking? Or are there bits of discussion, then typing, and then discussion? Or should the driver and navigator be talking pretty much the whole time? (Goal: Discuss how to have valuable communication within a pair)
